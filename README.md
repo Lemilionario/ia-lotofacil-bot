@@ -1,2 +1,1 @@
-# ia-lotofacil-bot
-Bot Telegram da IA Lotofácil
+# Bot IA Lotofácil para Railway - Seguro, leve, 100% integrado com IA Central
